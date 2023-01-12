@@ -1,4 +1,4 @@
-# Streamlit Data Eng App
+# Streamlit Auto Data Engineering Application
 
 
 ### App Features
